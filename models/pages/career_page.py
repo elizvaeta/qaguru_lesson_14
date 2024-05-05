@@ -1,7 +1,3 @@
-import os
-from time import sleep
-
-from config import FILES_DIR
 from selene import browser, by, have
 
 
